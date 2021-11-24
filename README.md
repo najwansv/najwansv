@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Najwan Sulvadli
-- 🌱 I’m currently learning C languange & Python
+- 🌱 I’m currently learning C languange & Java
 - 📫 How to reach me najwan.joan.sv@gmail.com
 
 <!---
