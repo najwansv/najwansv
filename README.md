@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M. Najwan Sulvadli u can call me Programmer Bucin
-- 📚 I’m currently working on studies project - ATM Machine
+- 📚 I’m currently working on studies project - Android Kotlin (monitoring and controlling a lamp and door lock)
 - 📫 How to reach me najwan.joan.sv@gmail.com
 
 <!---
