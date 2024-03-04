@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Birdday Project<br>🤝 I’m looking for help with Android Studio & ESP32<br>🌱 I’m currently learning HTML & PHP<br>⚡ Fun fact u can call me Programmer bucin
+🔭 I’m currently working on Birdday Project<br>🤝 I’m looking for help with Android Studio & ESP32<br>🌱 I’m currently learning HTML & PHP<br>⚡
 
 
 ## 🌐 Socials:
