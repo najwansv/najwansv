@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Birdday Project<br>🤝 I’m looking for help with Android Studio & ESP32<br>🌱 I’m currently learning HTML & PHP<br>⚡
+🔭 I’m currently working on BIM Dynamo Safety-AI on Autodesk Revit<br>🤝 I’m looking for help with AI, BIM, Dynamo and QHSE Management<br>🌱 I’m currently learning Dynamo<br>⚡
 
 
 ## 🌐 Socials:
